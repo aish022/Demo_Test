@@ -2,3 +2,17 @@ Python is a high-level, interpreted, interactive and object-oriented scripting l
 Python is designed to be highly readable. 
 It uses English keywords frequently where as other languages use punctuation, and it 
 has fewer syntactical constructions than other languages.
+
+
+Characteristics of Python
+Following are important characteristics of python −
+
+It supports functional and structured programming methods as well as OOP.
+
+It can be used as a scripting language or can be compiled to byte-code for building large applications.
+
+It provides very high-level dynamic data types and supports dynamic type checking.
+
+It supports automatic garbage collection.
+
+It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
