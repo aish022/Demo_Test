@@ -16,3 +16,12 @@ It provides very high-level dynamic data types and supports dynamic type checkin
 It supports automatic garbage collection.
 
 It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
+
+
+
+can be added to this 
+Hello World using Python.
+Just to give you a little excitement about Python, I'm going to give you a small conventional Python Hello World program, You can try it using Demo link.
+
+Live Demo
+print "Hello, Python!"
